@@ -1,5 +1,5 @@
 # node-demo
-develop webservice on node server
+develop webservice on node server wiht a most simple mode
 ### Project setup
 ```
 npm install
